@@ -3,14 +3,25 @@ This Power BI dashboard offers a deep dive into Netflix's content library, analy
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b> Movies vs. TV Shows – Breakdown of content types on Netflix.</b> 
-- <b>Ratings Analysis – Distribution of titles by rating groups.</b>
-- <b>Genre Popularity – Identify top-performing genres based on ratings and number of titles.</b>
-- <b>Country-Wise Insights – Explore how different countries contribute to Netflix’s content library.</b>
-- <b>Viewer Engagement – Analyze average ratings, votes per title, and trends.</b>
-- <b>Interactive Visualizations – Easily filter data by genre, country, and rating to gain deeper insights.</b>
+- **Movies vs. TV Shows: Content Type Breakdown**  
+This feature provides a detailed breakdown of content types on Netflix, comparing the distribution of Movies versus TV Shows to understand the platform's content composition.
+
+- **Ratings Analysis: Distribution by Rating Groups**  
+The Ratings Analysis visualizes the distribution of Netflix titles across different rating groups, enabling insights into the prevalence of specific ratings and their audience appeal.
+
+- **Genre Popularity: Top-Performing Genres Identification**  
+This section identifies top-performing genres by analyzing ratings and the number of titles, highlighting which genres resonate most with viewers and drive engagement.
+
+- **Country-Wise Insights: Global Content Contributions**  
+Explore how different countries contribute to Netflix’s content library, offering insights into regional production trends and the diversity of content origins.
+
+- **Viewer Engagement: Ratings and Voting Trends**  
+This feature analyzes viewer engagement through metrics like average ratings and votes per title, uncovering trends in audience preferences and content popularity.
+
+- **Interactive Visualizations: Dynamic Data Filtering**  
+Interactive visualizations allow users to filter data by genre, country, and rating, providing a flexible and intuitive way to gain deeper insights into Netflix’s content library.
 
 
 <h2>Tech Stack </h2>
