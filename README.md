@@ -35,7 +35,7 @@ Interactive visualizations allow users to filter data by genre, country, and rat
 
 <h2>Why This Project? </h2>
 
-- <b>This project is ideal for data analysts, business intelligence professionals, and Power BI learners looking to develop data storytelling and visualization skills using real-world datasets. It demonstrates how data-driven insights can enhance decision-making and content strategy for a leading streaming platform.</b>
+This project is ideal for data analysts, business intelligence professionals, and Power BI learners looking to develop data storytelling and visualization skills using real-world datasets. It demonstrates how data-driven insights can enhance decision-making and content strategy for a leading streaming platform.
 
 <h2>Project walk-through:</h2>
 
